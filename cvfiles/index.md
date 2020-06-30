@@ -1,3 +1,3 @@
-# cvfiles/index.md
+# Curriculum Vitae
 
-This is a dummy file for the folder where files for the CV will be stored.
+My latest CV can be found as a PDF file [here](./pv_cv_latexrolling.pdf).
