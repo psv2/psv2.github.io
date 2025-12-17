@@ -6,25 +6,6 @@ Welcome to my website. This website contains my CV, publications, and some other
 
 I am a transportation planning analyst working at the transportation consulting company [Cambridge Systematics](https://camsys.com/). The following lists of my professional experiences as a transportation planner are illustrative but not exhaustive.
 
-### Clients
-
-- ND DOT
-- TX DOT
-- GA DOT
-- ID DOT
-- IN DOT
-- RI DOT
-- AR DOT
-- MI DOT
-- Chicago DOT
-- Boston MPO
-- NYMTC
-- Merrimack Valley Transit
-- Amador Transit
-- GoRaleigh
-- New Britain, CT
-- Dutchess County, NY
-
 ### Project types
 
 - Rail Plans
