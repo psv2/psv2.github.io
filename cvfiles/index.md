@@ -1,6 +1,6 @@
 # Prashanth S. Venkataram (PSV): Curriculum Vitae
 
-This page contains my CV. You can see [my latest CV as a PDF file](./pv_cv_latexrolling.pdf). The HTML version of my CV is below. You can instead [go back to the main page](https://psv2.github.io/).
+This page contains my CV. You can see [my latest CV as a PDF file](./pv_cv_latexrolling_web.pdf). The HTML version of my CV is below. You can instead [go back to the main page](https://psv2.github.io/).
 
 ## Education
 
@@ -85,18 +85,20 @@ This page contains my CV. You can see [my latest CV as a PDF file](./pv_cv_latex
 
 ## Scholarships, Awards, and Honors
 
-- Chancellor's Postdoctoral Fellowship | Fellow | University of California, Davis Award | 2020 September &ndash; 2022 August
-- Bede Liu Best Dissertation Award | Winner | Princeton University Dep't of Electrical Engineering Award | 2020 May
-- SEAS Award for Excellence | Winner | Princeton University School of Engineering and Applied Science Award | 2018 October
-- Yan Huo \*94 Graduate Fellowship | Fellow | Princeton University Dep't of Electrical Engineering Fellowship | 2017 September &ndash; 2018 June
-- Early PhD Career Award | Winner | Princeton University Dep't of Electrical Engineering Award | 2016 May
-- National Science Foundation GRFP | Fellow | National Graduate Fellowship | 2014 September &ndash; 2019 August
-- Sigma Pi Sigma | Member | National Physics Honors Society | Inducted 2014 June
-- Phi Beta Kappa | Member | National Academic Honors Society | Inducted 2014 June
-- Selfless Service to Undergraduate Teaching by an Undergraduate Award | MIT Physics Department Award Winner | For contributions to 8.033 &ndash; Relativity lecture notes | 2013 September
-- AFCEA NOVA Scholarship | Winner | Regional Scholarship | 2013 \& 2014 May
-- Xerox Technical Minority Scholarship | Winner | National Scholarship | 2012 \& 2013 \& 2014 January
-- Smiths Industries Scholarship | Winner | Companywide Scholarship | 2011 January
+| Award | Status | Award Type | Date(s) |
+| :---- | :----- | :--------- | :------ |
+| Chancellor's Postdoctoral Fellowship | Fellow | University of California, Davis Award | 2020 September &ndash; 2022 August |
+| Bede Liu Best Dissertation Award | Winner | Princeton University Dep't of Electrical Engineering Award | 2020 May |
+| SEAS Award for Excellence | Winner | Princeton University School of Engineering and Applied Science Award | 2018 October |
+| Yan Huo \*94 Graduate Fellowship | Fellow | Princeton University Dep't of Electrical Engineering Fellowship | 2017 September &ndash; 2018 June |
+| Early PhD Career Award | Winner | Princeton University Dep't of Electrical Engineering Award | 2016 May |
+| National Science Foundation GRFP | Fellow | National Graduate Fellowship | 2014 September &ndash; 2019 August |
+| Sigma Pi Sigma | Member | National Physics Honors Society | Inducted 2014 June |
+| Phi Beta Kappa | Member | National Academic Honors Society | Inducted 2014 June |
+| Selfless Service to Undergraduate Teaching by an Undergraduate Award | MIT Physics Department Award Winner | For contributions to 8.033 &ndash; Relativity lecture notes | 2013 September |
+| AFCEA NOVA Scholarship | Winner | Regional Scholarship | 2013 & 2014 May |
+| Xerox Technical Minority Scholarship | Winner | National Scholarship | 2012 & 2013 & 2014 January |
+| Smiths Industries Scholarship | Winner | Companywide Scholarship | 2011 January |
 
 ## Transportation Planning Major Project Types
 
