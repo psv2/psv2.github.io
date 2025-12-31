@@ -11,4 +11,4 @@ You can see information about my career, presented in different forms and aspect
 
 ## Contact Information
 
-For immediate professional needs, please contact me at my [current professional email address](pvenkataram@camsys.com). Additionally, I am reachable on [LinkedIn](https://www.linkedin.com/in/prashanth-venkataram-a4a140149).
+For immediate professional needs, please contact me at my [current professional email address](mailto:pvenkataram@camsys.com). Additionally, I am reachable on [LinkedIn](https://www.linkedin.com/in/prashanth-venkataram-a4a140149).
