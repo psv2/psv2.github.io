@@ -1,6 +1,6 @@
 # Prashanth S. Venkataram: Career Narrative
 
-This page contains brief narratives about my careers, showing where I have worked, the kinds of projects that I have worked on, the skills that I developed, and the salient accomplishments. It is listed in reverse chronological order.
+This page contains brief narratives about my careers, showing where I have worked, the kinds of projects that I have worked on, the skills that I developed, and the salient accomplishments. It is listed in reverse chronological order. You can instead [go back to the main page](https://psv2.github.io/).
 
 ## Career 3: Transportation Planner (Current)
 
