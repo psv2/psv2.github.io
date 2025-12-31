@@ -11,7 +11,7 @@ This page contains my CV. You can see [my latest CV as a PDF file](./pv_cv_latex
 - Massachusetts Institute of Technology (Cambridge, MA)
     - S.B. 2014 (GPA: 4.9/5): 2010 September &ndash; 2014 June
     - Major: Physics (Focused Option, advisor: Jesse D. Thaler), Minor: Economics
-    - Thesis: Computational Investigations of Nanophotonic Systems (advisor: Marin Solja&ccaron;i&cacute;)
+    - Thesis: Computational Investigations of Nanophotonic Systems (advisor: Marin Soljačić)
 
 ## Work Experience
 
