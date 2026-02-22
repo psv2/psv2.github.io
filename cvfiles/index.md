@@ -125,6 +125,7 @@ This page contains my CV. You can see [my latest CV as a PDF file](./pv_cv_latex
 
 ## Leadership & Outreach Activities
 
+- Cambridge Systematics: panelist for industry jobs Q&A at University of California, Davis Institute of Transportation Studies (2026)
 - University of California, Davis Institute of Transportation Studies: advised graduate students J. A. Flynn (2021 October&ndash;2023 September) and M. M. R. Bhuiya (2022 October&ndash;2024 June)
 - Featured on episodes of podcasts Arrested Mobility as well as Disability Rap for expertise in transportation & disability (2022)
 - Princeton University SmartDrivingCar Summit panelist & discussant (2019, 2021, 2022)
@@ -137,7 +138,7 @@ This page contains my CV. You can see [my latest CV as a PDF file](./pv_cv_latex
 
 ## Educational Activities
 
-- Guest lectured about transportation for people with disabilities for D. Sperling's undergraduate class, S. Handy's graduate and high school classes, J. M. Barajas's graduate class, and A. L. Cochran's graduate class on public policy (2021, 2023)
+- Guest lectured about transportation for people with disabilities for D. Sperling's undergraduate class, S. Handy's graduate and high school classes, J. M. Barajas's graduate class, A. L. Cochran's graduate class, and H. Mohiuddin's class on public policy (2021, 2023, 2026)
 - Teaching assistant (TA) for Princeton class ELE 511 &ndash; Quantum Mechanics with Applications (2017 & 2018 fall): organized and led precepts, held office hours, and graded assignments & exams
 - TA for Princeton class EGR 154 &ndash; Linear Systems (2018 spring): organized and led help sessions & office hours, and graded assignments
 - Graded homework for MIT classes 8.012 &ndash; Physics I (2011 fall) and 8.022 &ndash; Physics II (2012 spring)
