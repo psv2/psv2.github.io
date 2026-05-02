@@ -31,6 +31,7 @@ This page contains my CV. You can see [my latest CV as a PDF file](./pv_cv_latex
 
 ## Journal Publications
 
+- M. M. R. Bhuiya, J. M. Barajas, and **PSV**, "How often do people with disabilities travel by certain modes? A study from California", Travel Behaviour and Society **44**, 101277 (2026)
 - **PSV**, J. A. Flynn, M. M. R. Bhuiya, J. M. Barajas, and S. Handy, "Availability and usability of transportation for people with disabilities depending on what the user is expected to do", Transp. Res. Interdisc. Persp. **23** (2024)
 - **PSV**, J. A. Flynn, M. M. R. Bhuiya, J. M. Barajas, and S. Handy, "Framing availability and usability of transportation for people with disabilities", Transp. Res. Interdisc. Persp. **22** (2023)
 - J. A. Flynn, G. Circella, and **PSV**, "Transportation and Neighborhood Priorities of Californians with Disabilities: Focus Group Findings", Transp. Res. Rec. **0**, 0 (2023)
@@ -73,6 +74,7 @@ This page contains my CV. You can see [my latest CV as a PDF file](./pv_cv_latex
 
 ## Reports and Policy Briefs
 
+- M. M. R. Bhuiya, J. M. Barajas, and **PSV**, "Traffic Collisions Change How Victims Think About Safety", University of California Institute of Transportation Studies policy brief (2026)
 - (**PSV** as acknowledged contributor) "Ground Transportation for People with Mobility Disabilities 2025: Challenges and Progress", National Council on Disability report (2025)
 - M. M. R. Bhuiya, J. M. Barajas, and **PSV**, "After the Crash: Post-Collision Travel Behavior and Safety Perceptions", University of California Institute of Transportation Studies report (2025)
 - M. M. R. Bhuiya, J. A. Flynn, **PSV**, and G. Circella, "Disability, Transportation, Activity Performance, and Neighborhood Features in California: Analyzing Data from a Survey", Pacific Southwest Region University Transportation Center report (2024)
