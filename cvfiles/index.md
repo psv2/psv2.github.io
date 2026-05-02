@@ -51,7 +51,7 @@ This page contains my CV. You can see [my latest CV as a PDF file](./pv_cv_latex
 
 ## Presentations
 
-- M. M. R. Bhuiya, J. Barajas, and **PSV**, "How Does Disability Influence Extent of Visit to AcHvity Centers?", ACSP 2025 Annual Conference
+- M. M. R. Bhuiya, J. Barajas, and **PSV**, "How Does Disability Influence Extent of Visit to Activity Centers?", ACSP 2025 Annual Conference
 - A. Cochran, R. Basu, **PSV**, and M. Shirgaokar, "Investigating Heat Exposure for Paratransit Users in the Denver Metropolitan Region.", ACSP 2025 Annual Conference
 - **PSV**, "Simpleton in Social Justice: Critically Examining My Path to and through Transportation Research", 3x3 2024 December (Invited)
 - M. M. R. Bhuiya, Flynn, G. Circella, and **PSV**, "Multimodality and Disability: A Study from California", TRB CATE 2024
