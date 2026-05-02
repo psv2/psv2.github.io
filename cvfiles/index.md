@@ -67,7 +67,7 @@ This page contains my CV. You can see [my latest CV as a PDF file](./pv_cv_latex
 - **PSV**, "Universal Design and Mobility", Asilomar 2021 Conference 3 Revolutions Side Event (Invited)
 - **PSV**, S. Molesky, W. Jin, and A. W. Rodriguez, "Approaching the fundamental limits of heat transfer at the nanoscale: the surprisingly limited role of inverse design", META 2019 (Invited)
 - **PSV**, "Mesoscale fluctuational electrodynamics: modeling and bounds, from molecules to continuous media",
-  Universit\'{e du Luxembourg 2019 July (Invited)
+  Université du Luxembourg 2019 July (Invited)
 - **PSV**, J. Hermann, T. J. Vongkovit, A. Tkatchenko, and A. W. Rodriguez, "Impact of nuclear vibrations on van der Waals interactions and radiative heat transfer in graphene", APS 2019 March Meeting
 - **PSV**, J. Hermann, A. Tkatchenko, and A. W. Rodriguez, "Van der Waals Interactions and Radiative Thermal Energy Exchange among Molecules and Macroscopic Bodies", APS 2018 March Meeting
 - **PSV**, J. Hermann, A. Tkatchenko, and A. W. Rodriguez, "Unifying Microscopic and Continuum Treatments of van der Waals and Casimir Interactions", APS 2017 March Meeting
