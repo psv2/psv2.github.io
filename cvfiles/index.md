@@ -54,7 +54,7 @@ This page contains my CV. You can see [my latest CV as a PDF file](./pv_cv_latex
 - M. M. R. Bhuiya, J. Barajas, and **PSV**, "How Does Disability Influence Extent of Visit to Activity Centers?", ACSP 2025 Annual Conference
 - A. Cochran, R. Basu, **PSV**, and M. Shirgaokar, "Investigating Heat Exposure for Paratransit Users in the Denver Metropolitan Region.", ACSP 2025 Annual Conference
 - **PSV**, "Simpleton in Social Justice: Critically Examining My Path to and through Transportation Research", 3x3 2024 December (Invited)
-- M. M. R. Bhuiya, Flynn, G. Circella, and **PSV**, "Multimodality and Disability: A Study from California", TRB CATE 2024
+- M. M. R. Bhuiya, J. A. Flynn, G. Circella, and **PSV**, "Multimodality and Disability: A Study from California", TRB CATE 2024
 - J. A. Flynn, G. Circella, and **PSV**, "Exclusion from Activities and Transportation Modes by Disability and Income: Results from a Survey in California", TRB 2024 Annual Meeting
 - **PSV**, "Disability and Vision Zero in the US: A Researcher's Perspective", Vision Zero Cities 2023 (Invited)
 - **PSV**, "Disability, Transportation, and Accessibility: New Trends and Longstanding Challenges in the US", UC Berkeley Institute of Transportation Studies 2023 February (Invited)
