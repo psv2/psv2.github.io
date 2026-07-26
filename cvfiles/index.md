@@ -16,7 +16,8 @@ This page contains my CV. You can see [my latest CV as a PDF file](./pv_cv_latex
 ## Work Experience
 
 - Cambridge Systematics (Bethesda, MD)
-    - Analyst: 2024 July &ndash; *\[present\]*
+    - Associate Planner I: 2026 April &ndash; *\[present\]*
+    - Analyst: 2024 July &ndash; 2026 March
 - National Council on Disability (Bethesda, MD)
     - Contract Researcher: 2024 July &ndash; 2024 September
 - University of California, Davis (Davis, CA)
